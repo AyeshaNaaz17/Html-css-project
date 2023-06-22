@@ -1,1 +1,1 @@
-# html-css-project
+It's a responsive website designed using html, css and bootstrap!
